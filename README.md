@@ -36,3 +36,7 @@ The SVD-based recommendation model achieves an RMSE of approximately 1.082 on th
 ## License
 
 MIT License
+
+##Contributors :
+-> Ayush Prateek
+-> Atul Rai
